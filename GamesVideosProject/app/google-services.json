@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "66410586405",
+    "project_id": "videosgames-8b6f6",
+    "storage_bucket": "videosgames-8b6f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66410586405:android:1c21db85fb23bee6ccfacc",
+        "android_client_info": {
+          "package_name": "com.example.gamesvideosproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJuxq8FC8c5WPQBMpu4kDwtxsfm98sCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66410586405:android:755f4541a781309bccfacc",
+        "android_client_info": {
+          "package_name": "com.example.gamesvideosproject.activites"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJuxq8FC8c5WPQBMpu4kDwtxsfm98sCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

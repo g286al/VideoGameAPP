@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <!-- TextView for the app name -->
+    <TextView
+        android:id="@+id/appNameTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:padding="16dp"
+        android:text="@string/playnation"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/Dess"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:padding="16dp"
+        android:text="@string/dess"
+        android:textSize="24sp" />
+
+    <!-- Button to explore games -->
+    <Button
+        android:id="@+id/exploreButton"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:padding="8dp"
+        android:text="@string/explore_games" />
+
+    <!-- Other UI elements can be added here -->
+
+</LinearLayout>
